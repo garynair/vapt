@@ -322,6 +322,8 @@ See [`templates/vulnerability-finding-template.md`](templates/vulnerability-find
 - [Risk Management](https://github.com/garynair/risk-management) - A companion curated list covering the risk register, heat maps, and treatment planning that unresolved VAPT findings feed into.
 - [Federal Compliance](https://github.com/garynair/federal-compliance) - A companion curated list covering FedRAMP's own annual penetration-testing requirement and the POA&M process open findings feed into for federal systems.
 - [IT Audit & Controls](https://github.com/garynair/it-audit-controls) - A companion curated list covering ITGC and control-testing methodology adjacent to, but distinct from, adversarial VAPT.
+- [Cloud Security](https://github.com/garynair/cloud-security) - A companion curated list covering the shared responsibility model, AWS/Azure/GCP-specific security, and SOC 2 — the cloud-specific implementation layer for these controls.
+- [Incident Response & BCP/DR](https://github.com/garynair/ir-bc-dr) - A companion curated list covering incident response planning, playbooks, tabletop exercises, and BIA-driven disaster recovery.
 
 ---
 
