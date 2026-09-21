@@ -81,7 +81,7 @@ The two are complementary, not interchangeable: a vulnerability assessment tells
 See [`templates/rules-of-engagement-template.md`](templates/rules-of-engagement-template.md) in this repo for a starting scope-and-authorization document.
 
 - [Computer Fraud and Abuse Act (CFAA) Overview (DOJ)](https://www.justice.gov/jm/jm-9-48000-computer-fraud) - The US Department of Justice's manual entry on the CFAA, the primary federal statute criminalizing unauthorized computer access — the reason written authorization is not optional.
-- [SANS: Legal Issues in Penetration Testing](https://www.sans.org/white-papers/legal-issues-pen-testing/) - A widely referenced SANS paper on the legal and contractual issues specific to structuring a penetration-testing engagement.
+- [SANS White Papers Library](https://www.sans.org/white-papers/) - SANS's free white paper library; search it for current papers on the legal and contractual issues specific to structuring a penetration-testing engagement (specific paper URLs on this topic have changed over time).
 - [AWS Penetration Testing Policy](https://aws.amazon.com/security/penetration-testing/) - AWS's official policy on which activities customers may test without prior approval and which still require notification.
 
 ---
@@ -140,7 +140,7 @@ See [`templates/rules-of-engagement-template.md`](templates/rules-of-engagement-
 - [theHarvester](https://github.com/laramies/theHarvester) - Free, open-source tool for gathering emails, subdomains, hosts, and employee names from public sources (search engines, PGP key servers, Shodan) during the passive-recon phase.
 - [Recon-ng](https://github.com/lanmaster53/recon-ng) - A free, modular web-reconnaissance framework with a Metasploit-like console interface, automating a large share of OSINT collection through installable modules.
 - [Shodan](https://www.shodan.io/) - A free-tier-available search engine for internet-connected devices and exposed services, widely used to identify a target's external attack surface before active scanning begins.
-- [Maltego Community Edition](https://www.maltego.com/community/) - Free-tier link-analysis tool for visually mapping relationships between domains, IPs, people, and infrastructure gathered during OSINT.
+- [Maltego Community Edition](https://www.maltego.com/ce-registration) - Free-tier link-analysis tool for visually mapping relationships between domains, IPs, people, and infrastructure gathered during OSINT.
 
 ---
 
@@ -190,7 +190,7 @@ See [`templates/rules-of-engagement-template.md`](templates/rules-of-engagement-
 5. Export findings as a shareable collection so a reproduction step in your report is literally "import this collection and run request #4" rather than a prose description.
 
 - [Postman](https://www.postman.com/) - The free tier covers everything needed for manual API security testing: request building, environments, collections, and scripted pre-request/test assertions.
-- [OWASP API Security Top 10](https://owasp.org/www-project-api-security/) - The API-specific companion to the OWASP Top 10, the checklist most Postman-driven API testing is structured against.
+- [OWASP API Security Top 10](https://owasp.org/API-Security/) - The API-specific companion to the OWASP Top 10, the checklist most Postman-driven API testing is structured against.
 
 ---
 
@@ -312,7 +312,7 @@ See [`templates/vulnerability-finding-template.md`](templates/vulnerability-find
 - [PortSwigger Web Security Academy](https://portswigger.net/web-security) - Free, comprehensive, hands-on web-app security curriculum — the single best free starting point for web-focused VAPT learning.
 - [TryHackMe](https://tryhackme.com/) - Free-tier, structured, guided learning paths for complete beginners through to advanced topics.
 - [HackTricks](https://book.hacktricks.xyz/) - A free, extensively cross-referenced, community-maintained knowledge base of practical techniques across nearly every VAPT topic and tool.
-- [Offensive Security's Free Content](https://www.offsec.com/free-cybersecurity-education/) - Free introductory material from the organization behind OSCP, including the free "PEN-103: Kali Linux Basics" course.
+- [Offensive Security's Free Content](https://www.offsec.com/courses/pen-103/) - Free introductory material from the organization behind OSCP, including the free "PEN-103: Kali Linux Basics" course.
 
 ---
 
