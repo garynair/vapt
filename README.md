@@ -1,3 +1,5 @@
+![VAPT — Vulnerability Assessment and Penetration Testing](docs/banner.png)
+
 # VAPT — Vulnerability Assessment and Penetration Testing
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
